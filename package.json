@@ -1,0 +1,24 @@
+{
+  "name": "cse370---bracu-mongol-tori-alumni-data-management-system",
+  "version": "1.0.0",
+  "description": "BRACU Mongol-Tori Alumni Data Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanzimKhan/CSE370---BRACU-Mongol-Tori-Alumni-Data-Management-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SanzimKhan/CSE370---BRACU-Mongol-Tori-Alumni-Data-Management-System/issues"
+  },
+  "homepage": "https://github.com/SanzimKhan/CSE370---BRACU-Mongol-Tori-Alumni-Data-Management-System#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
