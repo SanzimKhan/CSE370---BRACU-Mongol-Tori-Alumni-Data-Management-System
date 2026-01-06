@@ -4,6 +4,7 @@
   "description": "BRACU Mongol-Tori Alumni Data Management System",
   "main": "index.js",
   "scripts": {
+    "start": "node js/backend.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
